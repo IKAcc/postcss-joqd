@@ -1,0 +1,25 @@
+{
+  "name": "postcss-joqd",
+  "version": "1.0.0",
+  "description": "PostCSS version of Joqd UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IKAcc/postcss-joqd.git"
+  },
+  "keywords": [
+    "Joqd",
+    "UI",
+    "CSS",
+    "PostCSS"
+  ],
+  "author": "Javid Izadfar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IKAcc/postcss-joqd/issues"
+  },
+  "homepage": "https://github.com/IKAcc/postcss-joqd#readme"
+}
