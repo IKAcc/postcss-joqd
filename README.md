@@ -4,7 +4,7 @@
 
 ## Installation
 ```
-$ npm i -D postcss-loader
+$ npm i -D postcss-joqd
 ```
 
 ## Usage
