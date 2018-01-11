@@ -31,6 +31,6 @@ module.exports = {
 ```
 
 ### `Import`
-Import `../node-modules/joqd/__vars.css`, `../node-modules/joqd/__mixins.css` and `../node-modules/joqd/joqd.css` sequentially to your main CSS file.
+Import `../../node_modules/postcss-joqd/__vars.css`, `../../node_modules/postcss-joqd/__mixins.css` and `../../node_modules/postcss-joqd/joqd.css` sequentially to your main CSS file.
 
 **note**: *don't forget to set up your fonts*
